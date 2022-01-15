@@ -6,4 +6,4 @@ Repository with the files of the laboratory assignment for the course 2021-2022
 
 Student 1: Your name here: Adrian Ramo López
 
-Student 2 (optional): Alejandro Moreno
+Student 2 (optional): Alejandro Moreno Sanchez-Pozas
